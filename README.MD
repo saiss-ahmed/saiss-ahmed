@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source peoject <br>🌱 I’m currently learning C
+🔭 currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source peoject <br>🌱 I’m currently learning python
 
 
 ## 🌐 Socials:
